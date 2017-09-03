@@ -44,7 +44,7 @@
    },
    {
       "id": 5,
-      "status": false,
+      "status": true,
       "name": "Whiteface Mtn.",
       "elevation": 4867,
       "elevation_gain": 2535,
@@ -121,7 +121,7 @@
    },
    {
       "id": 12,
-      "status": false,
+      "status": true,
       "name": "Giant Mtn.",
       "elevation": 4627,
       "elevation_gain": 3050,
