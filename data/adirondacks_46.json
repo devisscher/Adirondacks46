@@ -341,7 +341,7 @@
    },
    {
       "id": 32,
-      "status": false,
+      "status": true,
       "name": "Phelps Mtn.",
       "elevation": 4161,
       "elevation_gain": 3394,
