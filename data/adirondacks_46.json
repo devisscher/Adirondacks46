@@ -385,7 +385,7 @@
    },
    {
       "id": 36,
-      "status": false,
+      "status": true,
       "name": "Cascade Mtn.",
       "elevation": 4098,
       "elevation_gain": 1940,
