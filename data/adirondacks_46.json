@@ -286,7 +286,7 @@
    },
    {
       "id": 27,
-      "status": false,
+      "status": true,
       "name": "Big Slide Mtn.",
       "elevation": 4240,
       "elevation_gain": 2800,
