@@ -99,7 +99,7 @@
    },
    {
       "id": 10,
-      "status": false,
+      "status": true,
       "name": "Gothics",
       "elevation": 4736,
       "elevation_gain": 4070,
@@ -231,7 +231,7 @@
    },
    {
       "id": 22,
-      "status": false,
+      "status": true,
       "name": "Armstrong Mtn.",
       "elevation": 4400,
       "elevation_gain": 3734,
@@ -308,7 +308,7 @@
    },
    {
       "id": 29,
-      "status": false,
+      "status": true,
       "name": "Upper Wolfjaw",
       "elevation": 4185,
       "elevation_gain": 3619,
