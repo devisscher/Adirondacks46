@@ -297,7 +297,7 @@
    },
    {
       "id": 28,
-      "status": false,
+      "status": true,
       "name": "Esther Mtn.",
       "elevation": 4240,
       "elevation_gain": 3020,
