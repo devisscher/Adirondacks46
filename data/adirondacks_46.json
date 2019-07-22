@@ -33,7 +33,7 @@
    },
    {
       "id": 4,
-      "status": false,
+      "status": true,
       "name": "Mt. Skylight",
       "elevation": 4926,
       "elevation_gain": 4265,
@@ -66,7 +66,7 @@
    },
    {
       "id": 7,
-      "status": false,
+      "status": true,
       "name": "Gray Peak",
       "elevation": 4840,
       "elevation_gain": 4178,
@@ -110,7 +110,7 @@
    },
    {
       "id": 11,
-      "status": false,
+      "status": true,
       "name": "Mt. Colden",
       "elevation": 4714,
       "elevation_gain": 2850,
